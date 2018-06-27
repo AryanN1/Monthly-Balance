@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url("material33.png");
+    margin: 0 auto;
+    width: 480px;
+    border: 3px solid red;
+    padding: 10px 20px;
+}
+h1, h2 {
+    color: green;
+}
+h2 {
+    border-bottom: 2px solid black;
+}
+label {
+    float: left;
+    width: 11em;
+    text-align: right;
+    padding-bottom: .5em;
+    color: red;
+}
+input, select {
+    margin-left: 1em;
+    margin-bottom: 0.75em;
+}
+table {
+    width: 95%;
+    border: 1px solid red;
+    border-collapse: collapse;
+    margin: 1em auto;
+}
+th, td {
+    text-align: left;
+    color: red;
+}
+th {
+    border-bottom: 1px solid red;
+    width: 33%;
+}
